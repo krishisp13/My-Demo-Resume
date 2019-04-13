@@ -1,1 +1,21 @@
-
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,pre,a,strong,sub,b,u,i,center,ul,li,ol,label,form,table,tr,th,td,footer,header{
+margin:0;
+paddings:0;
+border:0;
+font-size:14px;
+font:inherit;
+vertical-align:baseline;
+}
+footer,header{
+dispaly:block;
+}
+body{
+line-height:1.3; 
+}
+ol, ul{
+list-style:none;
+}
+table tr td{
+border-collapse:collapse;
+}
+ 
